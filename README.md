@@ -1,0 +1,1 @@
+Responsive single-page coffee packet website built with HTML and CSS — features a clean layout that showcases coffee products, packaging details, and brand information. A front-end project demonstrating responsive design and visual presentation of products.
